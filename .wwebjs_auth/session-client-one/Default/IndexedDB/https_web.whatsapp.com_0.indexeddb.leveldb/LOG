@@ -1,0 +1,37 @@
+2023/10/05-19:38:42.799 24cc Reusing MANIFEST C:\Users\dinaa\Documents\KERJA PRAKTEK FIX\nodejsnew\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/05-19:38:42.814 24cc Recovering log #9
+2023/10/05-19:38:42.944 24cc Reusing old log C:\Users\dinaa\Documents\KERJA PRAKTEK FIX\nodejsnew\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000009.log 
+2023/10/05-19:39:16.792 1fb8 Level-0 table #14: started
+2023/10/05-19:39:16.903 1fb8 Level-0 table #14: 1191546 bytes OK
+2023/10/05-19:39:16.910 1fb8 Delete type=0 #9
+2023/10/05-19:39:16.989 1fb8 Compacting 1@1 + 1@2 files
+2023/10/05-19:39:17.342 1fb8 Generated table #15@1: 32248 keys, 1431954 bytes
+2023/10/05-19:39:17.342 1fb8 Compacted 1@1 + 1@2 files => 1431954 bytes
+2023/10/05-19:39:17.343 1fb8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/05-19:39:42.116 369c Level-0 table #17: started
+2023/10/05-19:39:42.180 369c Level-0 table #17: 1381663 bytes OK
+2023/10/05-19:39:42.183 369c Delete type=2 #11
+2023/10/05-19:39:42.183 369c Delete type=0 #13
+2023/10/05-19:39:42.183 369c Delete type=2 #14
+2023/10/05-19:39:42.395 24cc Compacting 1@1 + 1@2 files
+2023/10/05-19:39:42.606 24cc Generated table #18@1: 36174 keys, 1547402 bytes
+2023/10/05-19:39:42.606 24cc Compacted 1@1 + 1@2 files => 1547402 bytes
+2023/10/05-19:39:42.607 24cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/05-19:42:57.869 1fb8 Level-0 table #20: started
+2023/10/05-19:42:57.955 1fb8 Level-0 table #20: 1433926 bytes OK
+2023/10/05-19:42:57.961 1fb8 Delete type=2 #15
+2023/10/05-19:42:57.961 1fb8 Delete type=0 #16
+2023/10/05-19:42:57.961 1fb8 Delete type=2 #17
+2023/10/05-19:42:57.994 1fb8 Compacting 1@1 + 1@2 files
+2023/10/05-19:42:58.147 1fb8 Generated table #21@1: 38115 keys, 1691201 bytes
+2023/10/05-19:42:58.148 1fb8 Compacted 1@1 + 1@2 files => 1691201 bytes
+2023/10/05-19:42:58.148 1fb8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/05-19:42:58.149 1fb8 Delete type=2 #18
+2023/10/05-19:42:58.149 1fb8 Delete type=2 #20
+2023/10/05-19:49:50.725 1fb8 Level-0 table #23: started
+2023/10/05-19:49:50.810 1fb8 Level-0 table #23: 1577683 bytes OK
+2023/10/05-19:49:50.815 1fb8 Delete type=0 #19
+2023/10/05-19:49:51.451 24cc Compacting 1@1 + 1@2 files
+2023/10/05-19:49:51.785 24cc Generated table #24@1: 41115 keys, 1869435 bytes
+2023/10/05-19:49:51.785 24cc Compacted 1@1 + 1@2 files => 1869435 bytes
+2023/10/05-19:49:51.786 24cc compacted to: files[ 0 0 1 0 0 0 0 ]
